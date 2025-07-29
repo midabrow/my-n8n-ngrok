@@ -13,6 +13,5 @@ cp ngrok.yml.example ngrok.yml
 ### Running n8n using Docker Compose
 
 ```bash
-
 docker compose -p my-n8n-ngrok --profile cpu up -d
 ```
